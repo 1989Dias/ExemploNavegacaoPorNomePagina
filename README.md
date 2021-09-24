@@ -1,2 +1,2 @@
-# ExemploNavegacaoPorNomePagina
-Exemplo de Navegação Por Nome da Página
+# Exemplo de Navegacao por Nome da Pagina
+Xamarin Forms.
